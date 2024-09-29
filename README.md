@@ -16,7 +16,8 @@
 
 # Purchase oAuth2 Bot V3™
 
-*If you would like to purchse **oAuth2 Bot V3™**, please add **@rmstocks** on discord or join **discord.gg/rmstocks** and create a ticket!*
+- *If you would like to purchse **oAuth2 Bot V3™**, please add **@rmstocks** on discord or join **discord.gg/rmstocks** and create a ticket!*
+- ***oAuth2 Bot V3™** comes with free lifetime hosting if purchased from [discord.gg/rmstocks](https://discord.gg/rmstocks)*
 
 
 ## Screenshots
