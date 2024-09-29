@@ -27,3 +27,4 @@
 ## Authors
 
 - [@rombluc](https://guns.lol/rmstocks)
+- [.gg/rmstocks](https://discord.gg/rmstocks)
