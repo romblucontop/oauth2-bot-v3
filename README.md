@@ -12,6 +12,7 @@
 |     /oauth2 count    |   bot admins  |             Responds with the oauth2 user count            |
 |   /config add-admin  | forced admins |          Adds the specified user id to bot admins          |
 | /config remove-admin | forced admins |        Removes the specified user id from bot admins       |
+|  /config webhooklogs | forced admins |        Changes the webhook of the authorization logs       |
 
 
 # Purchase oAuth2 Bot V3™
